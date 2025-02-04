@@ -1,0 +1,2 @@
+# LicenseDocsGenerator
+スプレッドシートや入力フォームからライセンス表記文書作成
